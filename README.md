@@ -10,7 +10,7 @@ I'm also quickly assimilating <img src="https://github.com/thearthurdev/thearthu
 
 ## Where can you find me?
 I'm available on;
-- <a href="mailto:arthurdelords@gmail.com" target="_blank"><img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/gmail.png" width= "14"> Gmail</a>
+- [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/gmail.png" width= "14"> Gmail](mailto:arthurdelords@gmail.com)
 - [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/linkedin.png" width= "14"> LinkedIn](https://www.linkedin.com/in/arthurdelords/)
 - [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/twitter.png" width= "14"> Twitter](https://twitter.com/_DeeArthur)
 - [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/hashnode.png" width= "14"> Hashnode](https://arthur.hashnode.dev/)
