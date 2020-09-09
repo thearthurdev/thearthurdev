@@ -1,7 +1,7 @@
 <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/github_banner.png" width= "980">
 
 ## Who am I?
-I'm a Ghanaian software developer who watches too many car videos on <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/youtube.png" width= "12"> YouTube, creates <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/playlist.png" width= "12"> playlists for my friends and all who share my good taste in music*, if I do say so myself,* and has only one good <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/camera.png" width= "12"> selfie that I use everywhere *(take a guess which one)*.
+I'm a Ghanaian software developer who watches too many car videos on <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/youtube.png" width= "12"> YouTube, creates <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/playlist.png" width= "12"> playlists for my friends and all who share my good taste in music, *if I do say so myself*, and has only one good <img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/camera.png" width= "12"> selfie that I use everywhere *(take a guess which one)*.
 
 ## What do I do?
 **I flutter!**<br>
