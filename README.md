@@ -15,6 +15,8 @@ I'm available on;
 - [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/twitter.png" width= "14"> Twitter](https://twitter.com/_DeeArthur)
 - [<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/hashnode.png" width= "14"> Hashnode](https://arthur.hashnode.dev/)
 
+[<img src="https://github.com/thearthurdev/thearthurdev/blob/master/assets/website.png" width= "14">](https://thearthur.dev) Visit my website! [ArthurDev](https://thearthur.dev)
+
 Get in touch, read some of my stuff, leave a like or a comment
 
 
